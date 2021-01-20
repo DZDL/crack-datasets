@@ -35,7 +35,7 @@ Example code to use only with Roboflow [notebooks](https://models.roboflow.com/o
 !gdown --id "ID OF THE GOOGLE DRIVE ZIP" > roboflow.zip; unzip roboflow.zip; rm roboflow.zip
 ```
 
-## Resources [Last Update 2020-12-23]
+## Resources [Last Update 2021-01-19]
 
 Keywords to find these datasets: fish, trout
 
