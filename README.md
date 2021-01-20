@@ -42,6 +42,7 @@ Keywords to find these datasets: fish, trout
 ### List of datasets found
 | Date       | Powered by  | Author |
 | ---------- | ----------- | ------- | 
+| 2021-01-20 | Kaggle    | [CRACK0005 - Crack Segmentation Dataset](https://www.kaggle.com/lakshaymiddha/crack-segmentation-dataset) |
 | 2021-01-19 | Mendeley    | [CRACK0004 - Concrete Crack Images for Classification](https://data.mendeley.com/datasets/5y9wdsg2zt/1) |
 | 2021-01-19 | Kaggle    | [CRACK0003 - Concrete Crack Images for Classification](https://www.kaggle.com/thesighsrikar/concrete-crack-images-for-classification) |
 | 2021-01-19 | Kaggle    | [CRACK0002 - Structural Defects Network (SDNET) 2018](https://www.kaggle.com/aniruddhsharma/structural-defects-network-concrete-crack-images) |
